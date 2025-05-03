@@ -1,0 +1,10 @@
+opencv-python
+pygame
+numpy
+pillow
+google-generativeai
+requests
+gpiozero
+picamera2
+ultralytics
+RPi.GPIO
