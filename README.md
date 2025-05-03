@@ -95,14 +95,12 @@ ELEVENLABS_VOICE_ID = "your_voice_id_here"
 
 ## 📩 Project Contributors
 
-**Group 12 – Symbiosis Institute of Technology, Pune**
 
 * Sahran Altaf – [darsahran12@gmail.com](mailto:darsahran12@gmail.com)
 * Gunjay Suhalka
 * Mayank Ranade
 * Raj Shah
 
-**Faculty Guide**: Dr. Arunkumar Bongale
 
 ---
 
