@@ -19,10 +19,10 @@ GPIO.setmode(GPIO.BCM)  # Set GPIO mode before setup
 # Configuration
 
 # Gemini API
-GENAI_API_KEY = "AIzaSyC2Ytmr0A1PibMB9dzn6FODAfmmNtG74qw"
+GENAI_API_KEY = "(replace with your actual key)"
 # ElevenLabs API configuration (replace with your actual key)
-ELEVENLABS_API_KEY = "sk_77c649470778d2215e00e76c4c515e273e437f4a3ea71905"  
-ELEVENLABS_VOICE_ID = "onwK4e9ZLuTAKqWW03F9" 
+ELEVENLABS_API_KEY = "(replace with your actual key)"  
+ELEVENLABS_VOICE_ID = "(replace with your actual key)" 
 # -----------------------------------------------------------------------------
 
 # Gemini API configuration (replace with your actual key)
